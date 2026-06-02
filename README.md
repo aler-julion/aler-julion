@@ -155,95 +155,12 @@ Minha trajetória também inclui infraestrutura, redes, Fortinet, monitoramento,
 
 ---
 
-## Projetos e stacks utilizadas
-
-### secretariaScheibel — Frontend web
-
-Aplicação SPA robusta voltada ao produto HealiX/Narke.
-
-| Categoria | Stack |
-|---|---|
-| Linguagem e build | TypeScript, Vite 5, Bun, npm |
-| UI | React 18, shadcn/ui, Radix UI, Tailwind CSS 3, Framer Motion, Lenis, Lucide, React Icons |
-| Estado e dados | TanStack Query, persistência de query, React Hook Form, Zod, React Router 6 |
-| Recursos de produto | TipTap, xyflow/react, dnd-kit, Recharts, Embla, PostHog |
-| Backend-as-a-Service | Supabase, Supabase Edge Functions com Deno/TypeScript |
-| Testes | Vitest, Testing Library, jsdom |
-| Deploy | Docker, GHCR, Kubernetes, Nginx, Traefik, AWS Lightsail |
-
-### secretaria-agent — Backend de agente IA/WhatsApp
-
-API Python para agente voltado a clínicas médicas.
-
-| Categoria | Stack |
-|---|---|
-| Linguagem | Python 3.11+ |
-| API | FastAPI, Uvicorn, Pydantic 2, SSE com sse-starlette |
-| IA e agentes | agno, Anthropic SDK, OpenAI SDK |
-| Dados e serviços | Supabase, Redis, AWS SQS com aioboto3 |
-| Segurança | JWT, Argon2, rate limit com slowapi |
-| Integrações | Google APIs, Google Calendar |
-| Documentos e OCR | pytesseract, Pillow, pdf2image, pdfplumber, python-docx, openpyxl |
-| Observabilidade | Sentry |
-| Resiliência | tenacity |
-| Testes | pytest, pytest-asyncio, fakeredis |
-| Deploy | Docker, Kubernetes |
-
-### apresentacoes — Geração automatizada de slides
-
-Scripts para geração de apresentações técnicas.
-
-| Categoria | Stack |
-|---|---|
-| Runtime | Node.js |
-| Módulos | CommonJS |
-| Geração de slides | pptxgenjs |
-| Imagens | pngjs |
-| Saída | Arquivos PPTX |
-
-### documentacao_tecnologia — Base de conhecimento
-
-Vault técnico para documentação, guias, planejamento, templates e estudos.
-
-| Categoria | Stack |
-|---|---|
-| Documentação | Markdown |
-| Organização | Obsidian |
-| Versionamento | Git |
-
-### docs — Auditoria, arquitetura e segurança
-
-Repositório de documentação técnica, auditoria arquitetural e materiais de segurança.
-
-| Categoria | Stack |
-|---|---|
-| Documentação | Markdown |
-| Conteúdo | Auditoria arquitetural, relatórios, pentest, análise técnica |
-| Segurança | Relatórios e documentação de pentest HealiX |
-
----
-
-## Resumo por ecossistema
-
-| Ecossistema | Onde aparece |
-|---|---|
-| TypeScript, React e Node.js | Frontend secretariaScheibel e geração de apresentações |
-| Python e FastAPI | Backend secretaria-agent |
-| Deno e TypeScript | Supabase Edge Functions |
-| Supabase, Redis e IA | Produto HealiX/Narke |
-| Docker e Kubernetes | Deploy dos projetos principais |
-| AWS | Stage, serviços cloud e mensageria com SQS |
-| Sentry, ELK e Elasticsearch | Observabilidade, logs e erros |
-| Markdown e Obsidian | Documentação técnica e base de conhecimento |
-
----
-
-## Arquitetura geral dos projetos principais
+## Arquitetura de referência
 
 ```mermaid
 flowchart TD
-    U[Usuários e clínicas] --> FE[secretariaScheibel<br/>React + TypeScript]
-    FE --> API[secretaria-agent<br/>FastAPI + Python]
+    U[Usuários] --> FE[Frontend<br/>React + TypeScript]
+    FE --> API[Backend<br/>FastAPI + Python]
     FE --> SB[Supabase<br/>Auth + DB + Edge Functions]
 
     API --> AG[Agente de IA<br/>agno]
@@ -262,7 +179,7 @@ flowchart TD
     DOCKER[Docker] --> K8S[Kubernetes]
     K8S --> NGINX[Nginx]
     K8S --> TRAEFIK[Traefik]
-    K8S --> APP[app.s3care.com]
+    K8S --> APP[Aplicação em produção]
 ```
 
 ---
