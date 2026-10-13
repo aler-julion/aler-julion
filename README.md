@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Aler Julion
 
-### Desenvolvimento web | APIs | Automação | Robótica
+### Engenheiro de IA | Desenvolvimento web | APIs | Automação | Robótica
 
-Sou engenheiro de computação e desenvolvo projetos que conectam **interfaces**, **backend**, **dados** e **automação**.
+Sou engenheiro de computação e engenheiro de IA. Desenvolvo soluções que conectam **inteligência artificial**, **interfaces**, **backend**, **dados** e **automação**.
 
 </div>
 
@@ -18,11 +18,22 @@ No desenvolvimento web, utilizo **Python e FastAPI** no backend e **React e Type
 
 Na robótica, desenvolvi um protótipo com **Python, OpenCV, NumPy e marcadores ArUco**, envolvendo calibração de câmera, estimativa de posição e controle de movimento.
 
-Tenho interesse em IA aplicada e venho estruturando estudos de planejamento de projetos com prompts, regras explícitas e validação de respostas.
+Trabalho com engenharia de IA aplicada, desenvolvendo soluções que integram inteligência artificial, APIs, dados e automação. Também estruturo fluxos com prompts, regras explícitas e validação de respostas.
 
 ---
 
 ## Tecnologias utilizadas nos meus projetos
+
+### Engenharia de IA
+
+<p>
+  <img alt="Engenharia de IA" src="https://img.shields.io/badge/Engenharia%20de%20IA-111827?style=for-the-badge&logo=&logoColor=white" />
+  <img alt="IA aplicada" src="https://img.shields.io/badge/IA%20aplicada-412991?style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Prompts" src="https://img.shields.io/badge/Prompts-0F172A?style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Automação" src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2563EB?style=for-the-badge&logo=&logoColor=white" />
+</p>
+
+Minha atuação conecta IA ao desenvolvimento de soluções, à integração entre serviços e à automação de processos.
 
 ### Desenvolvimento web
 
@@ -43,6 +54,25 @@ Tenho interesse em IA aplicada e venho estruturando estudos de planejamento de p
 | Dados e formulários no frontend | TanStack Query, React Hook Form, Zod |
 | Persistência e migrações | PostgreSQL, SQLAlchemy, Alembic |
 | Cache e integrações | Redis, Supabase, APIs HTTP |
+
+### Dados e persistência
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img alt="Alembic" src="https://img.shields.io/badge/Alembic-1F2937?style=for-the-badge&logo=&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### Formulários e dados no frontend
+
+<p>
+  <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img alt="React Hook Form" src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img alt="Zod" src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+</p>
 
 ### Containers e automação
 
@@ -86,6 +116,47 @@ Meu foco é incorporar essas práticas ao desenvolvimento e verificar o comporta
 
 ---
 
+## Mapa de competências
+
+```mermaid
+mindmap
+  root((Aler Julion))
+    Engenharia de IA
+      IA aplicada
+      Prompts estruturados
+      Validação de respostas
+      Integração com APIs
+      Automação
+    Desenvolvimento web
+      Python e FastAPI
+      React e TypeScript
+      Next.js e Vite
+      Tailwind CSS
+    Dados
+      PostgreSQL
+      SQLAlchemy e Alembic
+      Redis
+      Supabase
+    Entrega e qualidade
+      Docker e Docker Compose
+      GitHub Actions
+      Pytest e Vitest
+      Testing Library
+    Segurança aplicada
+      Autenticação e sessões
+      Controle de acesso
+      Validação de entradas
+      Argon2
+    Robótica
+      Python e OpenCV
+      NumPy
+      ArUco
+      Calibração de câmera
+      Controle com GPIO
+```
+
+---
+
 ## Como organizo meus projetos web
 
 ```mermaid
@@ -102,7 +173,7 @@ flowchart TD
 
 ## Estudos e interesses
 
-- IA como apoio ao planejamento, com prompts estruturados e validação de respostas.
+- Evolução das soluções de IA aplicada e dos fluxos de automação.
 - Arquitetura modular e integração entre frontend, backend e dados.
 - Segurança aplicada ao desenvolvimento de APIs.
 - Automação de ambientes e processos de entrega.
@@ -117,6 +188,25 @@ flowchart TD
 <img alt="Gráfico de contribuições de Aler Julion" src="https://github-readme-activity-graph.vercel.app/graph?username=aler-julion&theme=github-compact&hide_border=true" />
 
 </div>
+
+---
+
+## Histórico de commits
+
+<div align="center">
+
+<a href="https://github.com/aler-julion/aler-julion/commits/main/">
+  <img alt="Ver histórico de commits deste perfil" src="https://img.shields.io/badge/Hist%C3%B3rico%20de%20commits-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/aler-julion?tab=overview">
+  <img alt="Ver atividade e contribuições no GitHub" src="https://img.shields.io/badge/Atividade%20no%20GitHub-238636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+- [Histórico de commits deste README e do repositório de perfil](https://github.com/aler-julion/aler-julion/commits/main/).
+- [Atividade e contribuições nos meus projetos](https://github.com/aler-julion?tab=overview).
 
 ---
 
