@@ -2,11 +2,9 @@
 
 # Olá, eu sou o Aler Julion
 
-### Engenheiro de IA | DevOps | Backend | Cloud | Segurança | Observabilidade
+### Desenvolvimento web | APIs | Automação | Robótica
 
-Desenvolvo e opero soluções que conectam **IA**, **backend**, **DevOps**, **cloud**, **segurança**, **observabilidade**, **dados** e **automação**.
-
-Tenho foco em produtos reais, arquitetura escalável, integração entre serviços, operação em Kubernetes e aplicações com agentes de IA.
+Sou engenheiro de computação e desenvolvo projetos que conectam **interfaces**, **backend**, **dados** e **automação**.
 
 </div>
 
@@ -14,368 +12,101 @@ Tenho foco em produtos reais, arquitetura escalável, integração entre serviç
 
 ## Sobre mim
 
-Sou profissional de tecnologia com base em **Engenharia de Computação**, atuando com desenvolvimento, DevOps, cloud, segurança, observabilidade, automação e Inteligência Artificial.
+Meus projetos incluem aplicações de finanças pessoais, integrações de mensagens, interfaces web e robótica com visão computacional.
 
-Trabalho com aplicações modernas envolvendo **React**, **TypeScript**, **Python**, **FastAPI**, **Supabase**, **Redis**, **Docker**, **Kubernetes**, **AWS**, **Terraform**, **Jenkins**, **Keycloak**, **Sentry**, **ELK** e integrações com modelos de IA como **OpenAI** e **Anthropic**.
+No desenvolvimento web, utilizo **Python e FastAPI** no backend e **React e TypeScript** no frontend, com **Vite** ou **Next.js**. Trabalho com persistência de dados, autenticação, integração entre serviços e ambientes com **Docker**.
 
-Minha trajetória também inclui infraestrutura, redes, Fortinet, monitoramento, robótica e sistemas embarcados. Essa base amplia minha visão técnica para projetar sistemas de ponta a ponta: do produto ao deploy, da segurança à observabilidade.
+Na robótica, desenvolvi um protótipo com **Python, OpenCV, NumPy e marcadores ArUco**, envolvendo calibração de câmera, estimativa de posição e controle de movimento.
 
----
-
-## Stack principal
-
-### Inteligência Artificial e agentes
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentes%20de%20IA-0F172A?style=for-the-badge&logo=probot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
-### Linguagens, frontend e backend
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Uvicorn-0F172A?style=for-the-badge&logo=gunicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSE-1F2937?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-1F2937?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite%205-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%203-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### Estado, dados no frontend e experiência de produto
-
-<p>
-  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
-  <img src="https://img.shields.io/badge/TipTap-000000?style=for-the-badge&logo=tiptap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
-</p>
-
-### DevOps, cloud e infraestrutura como código
-
-<p>
-  <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Lightsail-232F3E?style=for-the-badge&logo=amazonlightsail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GHCR-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-### Bancos, cache e serviços
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### Observabilidade, logs e monitoramento
-
-<p>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-</p>
-
-### Segurança, cybersegurança, identidade e qualidade
-
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Application%20Security-7F1D1D?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Security-991B1B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20Security-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-1F2937?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/DevSecOps-0F172A?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Argon2-1F2937?style=for-the-badge&logo=keepassxc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rate%20Limit-7C2D12?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pentest-7F1D1D?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-</p>
-
-### Testes, documentos e produtividade
-
-<p>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/pptxgenjs-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-</p>
-
-### IoT, robótica e sistemas embarcados
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0F172A?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-2563EB?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensores-166534?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+Tenho interesse em IA aplicada e venho estruturando estudos de planejamento de projetos com prompts, regras explícitas e validação de respostas.
 
 ---
 
-## Arquitetura de referência
+## Tecnologias utilizadas nos meus projetos
 
-```mermaid
-flowchart TD
-    U[Usuários] --> FE[Frontend<br/>React + TypeScript]
-    FE --> API[Backend<br/>FastAPI + Python]
-    FE --> SB[Supabase<br/>Auth + DB + Edge Functions]
+### Desenvolvimento web
 
-    API --> AG[Agente de IA<br/>agno]
-    AG --> OA[OpenAI SDK]
-    AG --> AN[Anthropic SDK]
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-    API --> DB[(Supabase / PostgreSQL)]
-    API --> REDIS[(Redis)]
-    API --> SQS[AWS SQS]
-    API --> GCAL[Google Calendar API]
-    API --> OCR[OCR e documentos]
-
-    FE --> PH[PostHog]
-    API --> SENTRY[Sentry]
-
-    DOCKER[Docker] --> K8S[Kubernetes]
-    K8S --> NGINX[Nginx]
-    K8S --> TRAEFIK[Traefik]
-    K8S --> APP[Aplicação em produção]
-```
-
----
-
-## Mapa de competências
-
-```mermaid
-mindmap
-  root((Aler Julion))
-    Inteligência Artificial
-      LLMs
-      Agentes
-      OpenAI
-      Anthropic
-      Ollama
-      Chatbots
-    Backend
-      Python
-      FastAPI
-      Pydantic
-      SSE
-      APIs
-      Integrações
-    Frontend
-      TypeScript
-      React
-      Vite
-      Tailwind
-      shadcn/ui
-      TanStack Query
-    DevOps
-      Docker
-      Kubernetes
-      Jenkins
-      Terraform
-      AWS
-      AWS SQS
-      AWS Lightsail
-      GHCR
-      Traefik
-      Nginx
-    Dados
-      PostgreSQL
-      MySQL
-      MongoDB
-      Redis
-      Supabase
-    Observabilidade
-      Elasticsearch
-      ELK
-      Sentry
-      Grafana
-      Zabbix
-      PostHog
-    Segurança
-      Cybersegurança
-      Application Security
-      API Security
-      Cloud Security
-      IAM
-      Keycloak
-      JWT
-      Argon2
-      Rate Limit
-      Pentest
-      OWASP
-      Fortinet
-      Network Security
-      DevSecOps
-    Documentação
-      Markdown
-      Obsidian
-      Auditoria
-      Arquitetura
-    Engenharia
-      IoT
-      ESP32
-      Robótica
-      Sistemas embarcados
-```
-
----
-
-## Segurança e cybersegurança
-
-Tenho experiência e interesse técnico em segurança aplicada em diferentes camadas: aplicação, APIs, identidade, cloud, redes, infraestrutura, observabilidade e operação.
-
-### Camadas de segurança com as quais trabalho
-
-| Camada | Práticas e tecnologias |
+| Área | Ferramentas utilizadas |
 |---|---|
-| **Cybersegurança** | Análise de riscos, hardening, investigação técnica, documentação de segurança e melhoria contínua |
-| **Application Security** | OWASP, validação de entradas, proteção de endpoints, autenticação, autorização e segurança em APIs |
-| **API Security** | JWT, rate limiting, validação com Pydantic, controle de acesso e boas práticas em FastAPI |
-| **Identity and Access Management** | Keycloak, IAM, autenticação centralizada, autorização e gestão de identidade |
-| **Cloud Security** | AWS, IAM, segregação de permissões, segurança em serviços cloud e arquitetura segura |
-| **Network Security** | Fortinet, FortiGate, firewall, VPN, segmentação de rede e modelos de acesso seguro |
-| **DevSecOps** | Segurança integrada ao ciclo de desenvolvimento, pipelines, containers, deploy e operação |
-| **Observabilidade de segurança** | Sentry, ELK, Elasticsearch, logs, erros, eventos e análise de incidentes |
-| **Pentest e auditoria** | Relatórios técnicos, documentação de pentest, análise de vulnerabilidades e priorização de correções |
+| Backend e validação | FastAPI, Pydantic, Uvicorn |
+| Frontend e navegação | React, TypeScript, Vite, Next.js, Tailwind CSS, React Router |
+| Dados e formulários no frontend | TanStack Query, React Hook Form, Zod |
+| Persistência e migrações | PostgreSQL, SQLAlchemy, Alembic |
+| Cache e integrações | Redis, Supabase, APIs HTTP |
 
-```mermaid
-flowchart LR
-    SEC[Segurança e Cybersegurança]
+### Containers e automação
 
-    SEC --> CYBER[Cybersegurança]
-    SEC --> APPSEC[Application Security]
-    SEC --> APISEC[API Security]
-    SEC --> IAM[Identidade e Acesso]
-    SEC --> CLOUD[Cloud Security]
-    SEC --> NET[Network Security]
-    SEC --> DEVSEC[DevSecOps]
-    SEC --> OBSSEC[Observabilidade de Segurança]
-    SEC --> PENTEST[Pentest e Auditoria]
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
 
-    CYBER --> C1[Análise de riscos]
-    CYBER --> C2[Hardening]
-    CYBER --> C3[Investigação técnica]
+Utilizo Docker e Docker Compose para organizar serviços e dependências. Meus repositórios também incluem workflows com GitHub Actions para publicação de imagens no GitHub Container Registry (GHCR) e automação de releases.
 
-    APPSEC --> A1[OWASP]
-    APPSEC --> A2[Validação de entradas]
-    APPSEC --> A3[Proteção de endpoints]
+### Testes e qualidade
 
-    APISEC --> API1[JWT]
-    APISEC --> API2[Rate limit]
-    APISEC --> API3[Pydantic]
+<p>
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
+  <img alt="Testing Library" src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
 
-    IAM --> I1[Keycloak]
-    IAM --> I2[IAM]
-    IAM --> I3[Controle de acesso]
+Meus projetos incluem testes de backend e frontend, verificação de tipos e lint. Também trabalho com documentação em Markdown, contratos de API e organização modular do backend.
 
-    CLOUD --> CL1[AWS]
-    CLOUD --> CL2[Permissões]
-    CLOUD --> CL3[Arquitetura segura]
+### Robótica e visão computacional
 
-    NET --> N1[Fortinet]
-    NET --> N2[Firewall]
-    NET --> N3[VPN e segmentação]
+<p>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
 
-    DEVSEC --> D1[CI/CD]
-    DEVSEC --> D2[Containers]
-    DEVSEC --> D3[Kubernetes]
-
-    OBSSEC --> O1[Sentry]
-    OBSSEC --> O2[ELK]
-    OBSSEC --> O3[Elasticsearch]
-
-    PENTEST --> P1[Relatórios]
-    PENTEST --> P2[Vulnerabilidades]
-    PENTEST --> P3[Correções]
-```
+- Detecção de marcadores ArUco e estimativa de posição e orientação.
+- Calibração de câmera.
+- Controle de movimento com GPIO e integração entre percepção e controle.
+- Evolução de um protótipo acadêmico de navegação para uma arquitetura modular.
 
 ---
 
-## Como penso arquitetura
+## Segurança no desenvolvimento
+
+Nos projetos web, trabalho com autenticação, controle de acesso, validação de entradas e proteção de sessões. O backend de finanças inclui hash de senhas com **Argon2**, sessões no servidor e limitação de requisições.
+
+Meu foco é incorporar essas práticas ao desenvolvimento e verificar o comportamento com testes.
+
+---
+
+## Como organizo meus projetos web
 
 ```mermaid
 flowchart TD
-    P[Produto real] --> UX[Interface e experiência]
-    UX --> API[APIs e backend]
-    API --> AUTH[Identidade e segurança]
-    API --> DATA[Dados e persistência]
-    API --> AI[IA e automações]
-    API --> OBS[Observabilidade]
-
-    DEVOPS[DevOps] --> CONTAINERS[Docker]
-    DEVOPS --> ORCH[Kubernetes]
-    DEVOPS --> IAC[Terraform]
-    DEVOPS --> CLOUD[AWS]
-    DEVOPS --> CICD[Jenkins]
-
-    OBS --> LOGS[Logs]
-    OBS --> ERRORS[Erros]
-    OBS --> METRICS[Métricas]
-    OBS --> ALERTS[Alertas]
-
-    DEVOPS --> API
-    AI --> API
+    U[Usuário] --> FE[Frontend: React e TypeScript]
+    FE --> API[API: Python e FastAPI]
+    API --> AUTH[Autenticação e controle de acesso]
+    API --> DB[(PostgreSQL)]
+    API --> CACHE[(Redis)]
+    API --> INT[Integrações externas]
 ```
 
 ---
 
-## Atualmente estudando e desenvolvendo
+## Estudos e interesses
 
-- Engenharia de IA aplicada a produtos reais
-- Agentes com LLMs
-- Arquiteturas SaaS
-- Backend com Python e FastAPI
-- Frontend com React, TypeScript e Tailwind
-- Kubernetes em ambientes produtivos
-- Terraform e infraestrutura como código
-- AWS e serviços cloud
-- Pipelines CI/CD
-- Segurança de APIs e identidade
-- Observabilidade com Sentry, ELK e Grafana
-- Integração entre IA, APIs, bancos e automações
+- IA como apoio ao planejamento, com prompts estruturados e validação de respostas.
+- Arquitetura modular e integração entre frontend, backend e dados.
+- Segurança aplicada ao desenvolvimento de APIs.
+- Automação de ambientes e processos de entrega.
+- Robótica móvel e visão computacional.
 
 ---
 
@@ -383,29 +114,9 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aler-julion&theme=github-compact&hide_border=true" />
+<img alt="Gráfico de contribuições de Aler Julion" src="https://github-readme-activity-graph.vercel.app/graph?username=aler-julion&theme=github-compact&hide_border=true" />
 
 </div>
-
----
-
-## Perfil profissional
-
-Busco evolução técnica contínua, com foco em construir soluções robustas, seguras, automatizadas, observáveis e úteis para o negócio.
-
-Tenho interesse em atuar e crescer em áreas como:
-
-- Engenharia de IA
-- DevOps
-- Backend Engineering
-- Cloud Engineering
-- Platform Engineering
-- Segurança de aplicações
-- Observabilidade
-- Arquitetura de soluções
-- Sistemas distribuídos
-- Automação
-- Robótica e IoT
 
 ---
 
@@ -427,10 +138,11 @@ Tenho interesse em atuar e crescer em áreas como:
 
 </div>
 
+
 ---
 
 <div align="center">
 
-### Tecnologia bem feita une produto, código, segurança, operação e observabilidade.
+### Construindo e aprendendo com projetos reais.
 
 </div>
